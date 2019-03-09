@@ -16,7 +16,7 @@ based on curated list of important sections were utilized in ratio 3:1.
 
 
 
-Project as part of the Smart India Hackathon Grand Final '2019.
+Project for Grand Finale of Smart India Hackathon 2019 for the Problem statement by EzDI in which we made a system for assessment of similarity between patient using vector concatenation techniques and optimized WMD to foresee prognosis and hospitalization.
 
 
 
